@@ -1,6 +1,7 @@
-<footer class="w-full bg-gray-800 py-16">
+<footer class="w-full bg-gray-800 py-10">
 	<div class="md:px-12 lg:px-28">
 		<div class="container m-auto space-y-6 text-gray-300">
+			<h2 class="text-center justify-center text-3xl font-bold md:text-4xl text-white">Contact</h2>
 			<div class="m-auto flex w-max items-center justify-center space-x-4">
 				<a href="tel:+14138010722" aria-label="call">
 					<svg
