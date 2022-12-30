@@ -20,7 +20,7 @@
 							<img
 								class="object-cover object-center mx-auto rounded-lg shadow-2xl"
 								alt="Profile"
-								src="src/assets/profile.jpeg"
+								src="../../assets/profile.jpeg"
 							/>
 						</div>
 					</div>
@@ -51,7 +51,7 @@
 					>
 						<a
 							download
-							href={"src/assets/Shetty_Roshan_Praveen_Resume.pdf"}
+							href={"../../assets/Shetty_Roshan_Praveen_Resume.pdf"}
 							class="flex"
 						>
 							<svg
