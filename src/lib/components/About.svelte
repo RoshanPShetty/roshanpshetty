@@ -1,4 +1,6 @@
 <script lang="ts">
+	import profile from "$lib/assets/profile.jpeg"
+	import resume from "$lib/assets/Shetty_Roshan_Praveen_Resume.pdf"
 </script>
 
 <section>
@@ -20,7 +22,7 @@
 							<img
 								class="object-cover object-center mx-auto rounded-lg shadow-2xl"
 								alt="Profile"
-								src="../../assets/profile.jpeg"
+								src={profile}
 							/>
 						</div>
 					</div>
@@ -51,7 +53,7 @@
 					>
 						<a
 							download
-							href={"../../assets/Shetty_Roshan_Praveen_Resume.pdf"}
+							href={resume}
 							class="flex"
 						>
 							<svg

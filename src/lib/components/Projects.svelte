@@ -1,4 +1,10 @@
 <script lang="ts">
+	import boggle from "$lib/assets/boggle.jpeg"
+	import rideshare from "$lib/assets/rideshare.jpg"
+	import lensstop from "$lib/assets/lensstop.jpg"
+	import umassdesign from "$lib/assets/umassdesign.jpg"
+	import interviewscommonality from "$lib/assets/interviewscommonality.jpg"
+
 	let projects = [
 		{
 			type: "Web",
@@ -17,7 +23,7 @@
 						"MongoDB",
 						"Microservices",
 					],
-					image: "../../assets/boggle.jpeg",
+					image: boggle,
 				},
 				{
 					name: "RideShare",
@@ -32,7 +38,7 @@
 						"MongoDB",
 						"Microservices",
 					],
-					image: "../../assets/rideshare.jpg",
+					image: rideshare,
 				},
 				{
 					name: "Lensstop",
@@ -40,7 +46,7 @@
 					demo: "https://roshanpshetty.github.io/Lensstop/",
 					github: "https://github.com/RoshanPShetty/Lensstop",
 					technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "GitHub"],
-					image: "../../assets/lensstop.jpg",
+					image: lensstop,
 				},
 			],
 		},
@@ -53,7 +59,7 @@
 					github: "https://github.com/RoshanPShetty/UMassDesign",
 					demo: "",
 					technologies: ["Flutter", "Firebase", "Dart", "GitHub"],
-					image: "../../assets/umassdesign.jpg",
+					image: umassdesign,
 				},
 				{
 					name: "Interviews Commonality",
@@ -69,7 +75,7 @@
 						"Docker",
 						"MongoDB",
 					],
-					image: "../../assets/interviewscommonality.jpg",
+					image: interviewscommonality,
 				},
 			],
 		},
