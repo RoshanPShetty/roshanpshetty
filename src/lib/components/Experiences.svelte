@@ -1,10 +1,20 @@
 <script lang="ts">
 	let experiences = [
 		{
+			company: "U-Tutors",
+			title: "Lead Full Stack Developer",
+			dateStart: "Jan. 2023",
+			dateEnd: "Present",
+			description:
+				"Designing and implementing a student-to-student tutoring platform with an intuitive interface and integrated scheduling/payment systems.Collaborating on enhancing platform security, improving UX, and boosting user engagement through marketing and outreach.",
+			companyLogo:
+				"https://media.licdn.com/dms/image/C4D0BAQGCj-Gyoq47Bg/company-logo_200_200/0/1644088275985?e=1683763200&v=beta&t=rx40WuqNDiap609UYWj4TG1uF1_lB-uGNYpSOo98qbc",
+		},
+		{
 			company: "University of Massachusetts Amherst",
 			title: "MS Course Grader",
 			dateStart: "Sep. 2022",
-			dateEnd: "Present.",
+			dateEnd: "Dec. 2022",
 			description: "Course grader for the Scalable Web Systems",
 			companyLogo:
 				"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
@@ -13,9 +23,9 @@
 			company: "GRUBBRR",
 			title: "Full Stack Developer Intern",
 			dateStart: "Jun. 2022",
-			dateEnd: "Present.",
+			dateEnd: "Dec. 2022",
 			description:
-				"Current Full Stack Developer Intern at GRUBBRR working with the Fullstack Development Team to develop software for the Samsung line of products in the GRUBBRR-Samsung partnership",
+				"Designed Menu Builder Tool with dynamic data nesting and 10+ features, including Excel interface. Improved system performance by 20% by transitioning to a reactive Svelte model with data immutability and consistency.",
 			companyLogo:
 				"https://media-exp1.licdn.com/dms/image/C560BAQGKT8eu4FDVuQ/company-logo_200_200/0/1624570564117?e=2147483647&v=beta&t=_K4py6m7h7u022ZVrl47VpKO0gvRgNx50xqSjiaeK4Y",
 		},
@@ -183,7 +193,9 @@
 						</div>
 
 						<div class="mt-6 flex">
-							<dd class="text-xs text-gray-400">{experience.dateStart} - {experience.dateEnd}</dd>
+							<dd class="text-xs text-gray-400">
+								{experience.dateStart} - {experience.dateEnd}
+							</dd>
 						</div>
 					</div>
 				{/each}
