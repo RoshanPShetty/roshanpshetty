@@ -11,13 +11,14 @@
 				"https://media.licdn.com/dms/image/C4D0BAQGCj-Gyoq47Bg/company-logo_200_200/0/1644088275985?e=1683763200&v=beta&t=rx40WuqNDiap609UYWj4TG1uF1_lB-uGNYpSOo98qbc",
 		},
 		{
-			company: "University of Massachusetts Amherst",
+			company:
+				"UMass Amherst Manning College of Information & Computer Sciences",
 			title: "MS Course Grader",
 			dateStart: "Sep. 2022",
 			dateEnd: "Dec. 2022",
-			description: "Course grader for the Scalable Web Systems",
+			description: "Course grader for the Scalable Web Systems (CS497S)",
 			companyLogo:
-				"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
+				"https://www.cics.umass.edu/sites/default/files/manning_cics_full-thumb.jpg",
 		},
 		{
 			company: "GRUBBRR",
@@ -67,7 +68,7 @@
 			description:
 				"Offered residential experience supporting students’ learning, personal growth, and academic achievement. Fostering inclusive communities, creating social and educational opportunities, and providing safe and well-maintained residences.",
 			companyLogo:
-				"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UMass_Amherst_Athletics_logo.svg/2505px-UMass_Amherst_Athletics_logo.svg.png",
+				"https://imageio.forbes.com/specials-images/imageserve/5d51a73568cb0a000916be64/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87",
 		},
 	];
 </script>
