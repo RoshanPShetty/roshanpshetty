@@ -1,6 +1,6 @@
 <script lang="ts">
-	import profile from "$lib/assets/profile.jpeg"
-	import resume from "$lib/assets/Shetty_Roshan_Praveen_Resume.pdf"
+	import profile from "$lib/assets/profile.jpeg";
+	import resume from "$lib/assets/Shetty_Roshan_Praveen_Resume.pdf";
 </script>
 
 <section>
@@ -42,20 +42,17 @@
 					Roshan Praveen Shetty.
 				</h1>
 				<p class="mb-8 text-base leading-relaxed text-left text-gray-400">
-					A Master of Science degree candidate at the University of
-					Massachusetts, Amherst, specializing in Computer Science I love
-					experimenting with the web and the applications of computer vision in
-					various fields.
+					A highly motivated software engineer and a current MS CS student
+					at UMass Amherst with a passion for creating innovative technology
+					solutions, and a solid understanding of software development
+					processes and methodologies, as well as hands-on experience building a
+					variety of applications.
 				</p>
 				<div class="flex justify-center w-full mt-2 -mx-4 text-left">
 					<button
 						class="flex items-center px-4 py-2 font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-blue-600 rounded-lg hover:bg-blue-500 focus:outline-none focus:ring focus:ring-blue-300 focus:ring-opacity-80"
 					>
-						<a
-							download
-							href={resume}
-							class="flex"
-						>
+						<a download href={resume} class="flex">
 							<svg
 								xmlns="http://www.w3.org/2000/svg"
 								width="24"
