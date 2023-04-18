@@ -1,6 +1,16 @@
 <script lang="ts">
 	let experiences = [
 		{
+			company: "UMass Amherst Manning College of Information & Computer Sciences",
+			title: "Software Architect",
+			dateStart: "Jan. 2023",
+			dateEnd: "Present",
+			description:
+				"Designing and implementing a SaaS product aimed at streamlining project-based learning, working with a professor to ensure the tool's ease of use and alignment with pedagogical best practices.",
+			companyLogo:
+				"https://www.masslive.com/resizer/8U481nsnQj65ARLmMDZhYk7gAJw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XYA6H7HNKNBIDMKOYB4O7C6YCQ.png",
+		},
+		{
 			company: "U-Tutors",
 			title: "Lead Full Stack Developer",
 			dateStart: "Jan. 2023",
@@ -18,7 +28,7 @@
 			dateEnd: "Dec. 2022",
 			description: "Course grader for the Scalable Web Systems (CS497S)",
 			companyLogo:
-				"https://www.cics.umass.edu/sites/default/files/manning_cics_full-thumb.jpg",
+				"https://www.masslive.com/resizer/8U481nsnQj65ARLmMDZhYk7gAJw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XYA6H7HNKNBIDMKOYB4O7C6YCQ.png",
 		},
 		{
 			company: "GRUBBRR",
@@ -58,7 +68,7 @@
 			description:
 				"Developed shiny application for DACSS faculty to store, access, and edit school data. Visualized UMass Amherst data using R in the form of a schedule as an interactive shiny application published on the school website - dacss.shinyapps.io/Schedule/",
 			companyLogo:
-				"https://www.umass.edu/sbs/sites/default/files/styles/list/public/images/news/thumbs/SBS_Secondary_RGBnews-thumb_6.png?itok=u8W720tD",
+				"https://yt3.googleusercontent.com/ytc/AL5GRJWWEP-6hBAo9tkjpwjqJrrBBUVEn7AhYnHC7v-DeQ=s900-c-k-c0x00ffffff-no-rj",
 		},
 		{
 			company: "University of Massachusetts Amherst",
@@ -68,7 +78,7 @@
 			description:
 				"Offered residential experience supporting students’ learning, personal growth, and academic achievement. Fostering inclusive communities, creating social and educational opportunities, and providing safe and well-maintained residences.",
 			companyLogo:
-				"https://imageio.forbes.com/specials-images/imageserve/5d51a73568cb0a000916be64/0x0.jpg?format=jpg&crop=416,416,x0,y0,safe&height=87&width=87",
+				"https://www.masslive.com/resizer/8U481nsnQj65ARLmMDZhYk7gAJw=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XYA6H7HNKNBIDMKOYB4O7C6YCQ.png",
 		},
 	];
 </script>
@@ -79,85 +89,9 @@
 			<h2 class="text-3xl font-bold md:text-4xl text-white">Experiences</h2>
 		</div>
 
-		<div class="scrollbar-transparent overflow-x-auto">
+		<!-- <div class="scrollbar-transparent overflow-x-auto"> -->
 			<div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3 overflow-x-auto">
 				{#each experiences as experience}
-					<!-- <div
-							class="flex flex-col sm:relative sm:before:absolute sm:before:top-2 sm:before:w-4 sm:before:h-4 sm:before:rounded-full sm:before:left-[-35px] sm:before:z-[1] before:bg-violet-400"
-						>
-							<h3 class="text-xl font-semibold tracking-wide">
-								{experience.company}
-							</h3>
-							<span
-								class="my-2 text-xs font-bold tracking-widest text-light-blue-600 uppercase"
-							>
-								{experience.title}
-							</span>
-							<time class="text-xs tracking-wide uppercase text-gray-400"
-								>{experience.dateStart} - {experience.dateEnd}
-							</time>
-							<p class="mt-3">
-								{experience.description}
-							</p>
-						</div> -->
-					<!-- <div
-						class="w-full max-w-sm overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800"
-					>
-						<img
-							class="object-scale-down object-center w-full h-56"
-							src={experience.companyLogo}
-							alt="avatar"
-						/>
-
-						<div class="px-6 py-4">
-							<h1 class="text-xl font-semibold text-gray-800 dark:text-white">
-								{experience.title}
-							</h1>
-
-							<p class="py-2 text-gray-700 dark:text-gray-400">
-								{experience.description}
-							</p>
-
-							<div
-								class="flex items-center mt-4 text-gray-700 dark:text-gray-200"
-							>
-								<svg
-									aria-label="suitcase icon"
-									class="w-6 h-6 fill-current"
-									viewBox="0 0 24 24"
-									fill="none"
-									xmlns="http://www.w3.org/2000/svg"
-								>
-									<path d="M14 11H10V13H14V11Z" /><path
-										fill-rule="evenodd"
-										clip-rule="evenodd"
-										d="M7 5V4C7 2.89545 7.89539 2 9 2H15C16.1046 2 17 2.89545 17 4V5H20C21.6569 5 23 6.34314 23 8V18C23 19.6569 21.6569 21 20 21H4C2.34314 21 1 19.6569 1 18V8C1 6.34314 2.34314 5 4 5H7ZM9 4H15V5H9V4ZM4 7C3.44775 7 3 7.44769 3 8V14H21V8C21 7.44769 20.5522 7 20 7H4ZM3 18V16H21V18C21 18.5523 20.5522 19 20 19H4C3.44775 19 3 18.5523 3 18Z"
-									/>
-								</svg>
-
-								<h1 class="px-2 text-sm">{experience.company}</h1>
-							</div>
-
-							<div
-								class="flex items-center mt-4 text-gray-700 dark:text-gray-200"
-							>
-								<svg
-									xmlns="http://www.w3.org/2000/svg"
-									class="w-6 h-6 fill-current"
-									preserveAspectRatio="xMidYMid meet"
-									viewBox="0 0 24 24"
-									><path
-										fill="currentColor"
-										d="M12 14q-.425 0-.712-.288Q11 13.425 11 13t.288-.713Q11.575 12 12 12t.713.287Q13 12.575 13 13t-.287.712Q12.425 14 12 14Zm-4 0q-.425 0-.713-.288Q7 13.425 7 13t.287-.713Q7.575 12 8 12t.713.287Q9 12.575 9 13t-.287.712Q8.425 14 8 14Zm8 0q-.425 0-.712-.288Q15 13.425 15 13t.288-.713Q15.575 12 16 12t.712.287Q17 12.575 17 13t-.288.712Q16.425 14 16 14Zm-4 4q-.425 0-.712-.288Q11 17.425 11 17t.288-.712Q11.575 16 12 16t.713.288Q13 16.575 13 17t-.287.712Q12.425 18 12 18Zm-4 0q-.425 0-.713-.288Q7 17.425 7 17t.287-.712Q7.575 16 8 16t.713.288Q9 16.575 9 17t-.287.712Q8.425 18 8 18Zm8 0q-.425 0-.712-.288Q15 17.425 15 17t.288-.712Q15.575 16 16 16t.712.288Q17 16.575 17 17t-.288.712Q16.425 18 16 18ZM5 22q-.825 0-1.413-.587Q3 20.825 3 20V6q0-.825.587-1.412Q4.175 4 5 4h1V3q0-.425.287-.713Q6.575 2 7 2t.713.287Q8 2.575 8 3v1h8V3q0-.425.288-.713Q16.575 2 17 2t.712.287Q18 2.575 18 3v1h1q.825 0 1.413.588Q21 5.175 21 6v14q0 .825-.587 1.413Q19.825 22 19 22Zm0-2h14V10H5v10ZM5 8h14V6H5Zm0 0V6v2Z"
-									/></svg
-								>
-
-								<h1 class="px-2 text-sm">
-									{experience.dateStart} - {experience.dateEnd}
-								</h1>
-							</div>
-						</div>
-					</div> -->
 					<div
 						class="relative block overflow-hidden rounded-lg border border-gray-100 p-8"
 					>
@@ -201,6 +135,6 @@
 					</div>
 				{/each}
 			</div>
-		</div>
+		<!-- </div> -->
 	</div>
 </div>
