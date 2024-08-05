@@ -28,7 +28,7 @@
 			description:
 				"Designed and implemented a student-to-student tutoring platform with an intuitive UI and payment systems, enhancing security, improving UX, and boosting user engagement through marketing.",
 			companyLogo:
-				"https://media.licdn.com/dms/image/C4D0BAQGCj-Gyoq47Bg/company-logo_200_200/0/1644088275985?e=1683763200&v=beta&t=rx40WuqNDiap609UYWj4TG1uF1_lB-uGNYpSOo98qbc",
+				"https://media.licdn.com/dms/image/C4D0BAQGCj-Gyoq47Bg/company-logo_200_200/0/1644088276406?e=1730937600&v=beta&t=cZ2TwaNUBSMbPKLVq1gdALrHAPj9-Fk9iJQGSZy8AUc",
 		},
 		{
 			company:
