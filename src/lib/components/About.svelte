@@ -1,5 +1,5 @@
 <script lang="ts">
-	import profile from "$lib/assets/profile.jpeg";
+	import profile from "$lib/assets/profile.jpg";
 	import resume from "$lib/assets/Shetty_Roshan_Praveen_Resume.pdf";
 </script>
 
@@ -42,11 +42,7 @@
 					Roshan Praveen Shetty.
 				</h1>
 				<p class="mb-8 text-base leading-relaxed text-left text-gray-400">
-					A highly motivated software engineer and a current MS CS student
-					at UMass Amherst with a passion for creating innovative technology
-					solutions, and a solid understanding of software development
-					processes and methodologies, as well as hands-on experience building a
-					variety of applications.
+					I’m passionate about innovating and creating new products that solve real-world problems and push the boundaries of technology. My drive to build and explore new ideas is matched by my love for photography, where I capture moments and perspectives that inspire and intrigue me. Whether through cutting-edge software or a well-timed photograph, I’m dedicated to bringing creativity and innovation to everything I do. Let’s connect and explore how we can make a difference together!
 				</p>
 				<div class="flex justify-center w-full mt-2 -mx-4 text-left">
 					<button
