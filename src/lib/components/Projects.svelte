@@ -1,14 +1,22 @@
 <script lang="ts">
-	import boggle from "$lib/assets/boggle.jpeg"
-	import rideshare from "$lib/assets/rideshare.jpg"
-	import lensstop from "$lib/assets/lensstop.jpg"
-	import umassdesign from "$lib/assets/umassdesign.jpg"
-	import interviewscommonality from "$lib/assets/interviewscommonality.jpg"
+	import boggle from "$lib/assets/boggle.jpeg";
+	import rideshare from "$lib/assets/rideshare.jpg";
+	import lensstop from "$lib/assets/lensstop.jpg";
+	import umassdesign from "$lib/assets/umassdesign.jpg";
+	import interviewscommonality from "$lib/assets/interviewscommonality.jpg";
 
 	let projects = [
 		{
 			type: "Web",
 			project: [
+				{
+					name: "Photography Portfolio",
+					desc: "Explore a curated collection of stunning visuals capturing the essence of moments through Roshan's lens. From breathtaking landscapes to intimate portraits, each photograph tells a unique story. Dive in to discover the art of photography and the passion behind every shot.",
+					demo: "https://roshanshetty.mypixieset.com/",
+					github: "/",
+					technologies: ["HTML", "CSS", "JavaScript", "TailwindCSS", "GitHub", "PixieSet"],
+					image: lensstop,
+				},
 				{
 					name: "Boggle",
 					desc: "A fun game created using ReactJS, Node, Express, MongoDB, and Typescript as a project for students of CS497S to develop as homework modules.",
@@ -28,7 +36,7 @@
 				{
 					name: "RideShare",
 					desc: "Rideshare is a web application that allows people to share rides to common destinations through a sophisticated portal.",
-					demo: "http://rs.res.tf/",
+					demo: "/",
 					github: "https://github.com/RoshanPShetty/RideShare",
 					technologies: [
 						"ReactJS",
@@ -39,14 +47,6 @@
 						"Microservices",
 					],
 					image: rideshare,
-				},
-				{
-					name: "Lensstop",
-					desc: "Lensstop is a responsive photography website built showcasing photos that I have taken over the years.",
-					demo: "https://roshanpshetty.github.io/Lensstop/",
-					github: "https://github.com/RoshanPShetty/Lensstop",
-					technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "GitHub"],
-					image: lensstop,
 				},
 			],
 		},
@@ -199,7 +199,9 @@
 							</p>
 							<div class="flex gap-4 items-center justify-center">
 								<a
-								title="demo" target="blank" aria-label="demo"
+									title="demo"
+									target="blank"
+									aria-label="demo"
 									href={project.demo}
 									class="flex items-center justify-between px-3 py-1 rounded-full border border-gray-100 bg-blue-700 text-sm font-medium text-primary transition duration-300 hover:border-transparent hover:bg-primary hover:text-white border-gray-700 text-gray-300"
 								>
@@ -217,7 +219,9 @@
 									Demo
 								</a>
 								<a
-								title="github" target="blank" aria-label="github"
+									title="github"
+									target="blank"
+									aria-label="github"
 									href={project.github}
 									class="flex items-center justify-between px-3 py-1.2 rounded-full border border-gray-100 bg-black text-sm font-medium text-primary transition duration-300 hover:border-transparent hover:bg-primary hover:text-white border-gray-700 text-gray-300"
 								>
