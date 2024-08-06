@@ -4,6 +4,7 @@
 	import lensstop from "$lib/assets/lensstop.jpg";
 	import umassdesign from "$lib/assets/umassdesign.jpg";
 	import interviewscommonality from "$lib/assets/interviewscommonality.jpg";
+	import ratemydinning from "$lib/assets/ratemydinning.jpg";
 
 	let projects = [
 		{
@@ -14,7 +15,14 @@
 					desc: "Explore a curated collection of stunning visuals capturing the essence of moments through Roshan's lens. From breathtaking landscapes to intimate portraits, each photograph tells a unique story. Dive in to discover the art of photography and the passion behind every shot.",
 					demo: "https://roshanshetty.mypixieset.com/",
 					github: "/",
-					technologies: ["HTML", "CSS", "JavaScript", "TailwindCSS", "GitHub", "PixieSet"],
+					technologies: [
+						"HTML",
+						"CSS",
+						"JavaScript",
+						"TailwindCSS",
+						"GitHub",
+						"PixieSet",
+					],
 					image: lensstop,
 				},
 				{
@@ -53,6 +61,22 @@
 		{
 			type: "Mobile",
 			project: [
+				{
+					name: "RateMyDining",
+					desc: "RateMyDining is a centralized mobile app designed to enhance the dining experience at UMass Amherst by providing real-time reviews and ratings, helping students discover and make informed decisions about diverse food options on campus.",
+					github: "https://github.com/RoshanPShetty/RateMyDining",
+					demo: "",
+					technologies: [
+						"React Native",
+						"NodeJS",
+						"ExpressJS",
+						"Firebase",
+						"TailwindCSS",
+						"Typescript",
+						"GitHub",
+					],
+					image: ratemydinning,
+				},
 				{
 					name: "UMass Design",
 					desc: "UMassDesign is a Flutter application that is built for the UMass Design Club. It was built in order to increase interactivity for the club and give a platform for everyone to post their work.",
