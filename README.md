@@ -1,13 +1,13 @@
 # Hi there, I'm Roshan Praveen Shetty 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a love for creating innovative solutions and exploring the intersection of technology and creativity. With a strong background in software development and a keen interest in photography, I bring a unique perspective to the projects I work on.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a love for creating innovative solutions and exploring the intersection of technology and creativity. With a strong background in software development and a keen interest in photography, art, and anime, I bring a unique perspective to the projects I work on.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on [AniShelf](https://github.com/RoshanPShetty/AniShelf) - A mobile application to keep track of anime and manga.
 - 🌱 I’m constantly learning and exploring new technologies. Currently diving deep into **TypeScript**, **Next.js**, and **Svelte**.
 - 👨‍💻 I’m looking to collaborate on exciting open-source projects and innovative SaaS applications.
-- 📸 Photography enthusiast - Check out my portfolio [here](https://roshanshetty.netlify.app/).
+- 📸 I’m a photography enthusiast - Check out my photography portfolio [here](https://roshanshetty.mypixieset.com/).
 - 💬 Ask me about **Full-Stack Development**, **API Design**, and **Automation with Python**.
 
 ## 🛠️ Skills & Technologies
@@ -42,6 +42,14 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+## 🎨 Hobbies & Interests
+
+Apart from coding, I have a deep passion for:
+
+- **Photography**: Capturing moments through my lens is something I truly enjoy. You can explore my work on my [photography portfolio](https://roshanshetty.mypixieset.com/).
+- **Art**: I love exploring various forms of art, whether it's digital, traditional, or conceptual.
+- **Anime**: As an anime enthusiast, I enjoy watching and discussing various series, and I'm currently working on a related project, [AniShelf](https://github.com/RoshanPShetty/AniShelf).
+
 ## 📈 GitHub Stats
 
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPShetty&show_icons=true&theme=radical)
@@ -51,8 +59,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/roshanpshetty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://roshanshetty.netlify.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-  <a href="mailto:roshanshetty2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://roshanshetty.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:roshan.praveen.shetty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 Looking forward to connecting with like-minded individuals and contributing to impactful projects. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
