@@ -1,14 +1,20 @@
 # Hi there, I'm Roshan Praveen Shetty 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a love for creating innovative solutions and exploring the intersection of technology and creativity. With a strong background in software development and a keen interest in photography, art, and anime, I bring a unique perspective to the projects I work on.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a love for creating innovative solutions and exploring the intersection of technology and creativity. With a strong background in software development and a keen interest in photography and anime, I bring a unique perspective to the projects I work on.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [AniShelf](https://github.com/RoshanPShetty/AniShelf) - A mobile application to keep track of anime and manga.
+- 🔭 I’m currently working on various exciting projects and always looking to innovate and solve new challenges.
 - 🌱 I’m constantly learning and exploring new technologies. Currently diving deep into **TypeScript**, **Next.js**, and **Svelte**.
 - 👨‍💻 I’m looking to collaborate on exciting open-source projects and innovative SaaS applications.
-- 📸 I’m a photography enthusiast - Check out my photography portfolio [here](https://roshanshetty.mypixieset.com/).
 - 💬 Ask me about **Full-Stack Development**, **API Design**, and **Automation with Python**.
+
+## 🌟 Personal Portfolio 
+
+Check out some highlights from my [portfolio](https://roshanpshetty.netlify.app/):
+
+[![Portfolio Preview](src/lib/assets/portfolio.jpeg)](https://roshanpshetty.netlify.app/)
+
 
 ## 🛠️ Skills & Technologies
 
@@ -44,11 +50,17 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 ## 🎨 Hobbies & Interests
 
-Apart from coding, I have a deep passion for:
+### Photography 📸 
+Capturing moments through my lens is a passion of mine. Each photograph is an attempt to capture the beauty and emotion of the world around us. 
 
-- **Photography**: Capturing moments through my lens is something I truly enjoy. You can explore my work on my [photography portfolio](https://roshanshetty.mypixieset.com/).
-- **Art**: I love exploring various forms of art, whether it's digital, traditional, or conceptual.
-- **Anime**: As an anime enthusiast, I enjoy watching and discussing various series, and I'm currently working on a related project, [AniShelf](https://github.com/RoshanPShetty/AniShelf).
+[![Photography Preview](src/lib/assets/photography.jpeg)](https://roshanshetty.mypixieset.com/)
+
+Explore more of my work on my [photography portfolio](https://roshanshetty.mypixieset.com/).
+
+### Anime 📺
+I'm an avid anime enthusiast, always excited to dive into new series and discuss my favorites. Anime has a special place in my heart, and I love sharing my experiences and thoughts with others.
+
+![One Piece Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/e71145201456469.667499b196cba.jpg)
 
 ## 📈 GitHub Stats
 
@@ -58,9 +70,9 @@ Apart from coding, I have a deep passion for:
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/roshanpshetty"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://roshanshetty.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:roshan.praveen.shetty@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/roshanpshetty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://roshanpshetty.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:roshanshetty2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 Looking forward to connecting with like-minded individuals and contributing to impactful projects. Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate!
