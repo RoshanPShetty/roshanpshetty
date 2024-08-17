@@ -4,10 +4,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various exciting projects and always looking to innovate and solve new challenges.
-- 🌱 I’m constantly learning and exploring new technologies. Currently diving deep into **TypeScript**, **Next.js**, and **Svelte**.
-- 👨‍💻 I’m looking to collaborate on exciting open-source projects and innovative SaaS applications.
-- 💬 Ask me about **Full-Stack Development**, **API Design**, and **Automation with Python**.
+- 🔭 I’m currently working on [Netflix AutoSkip](https://netflix-autoskip.vercel.app/), a Chrome extension that enhances your Netflix experience.
+- 🌱 I’m currently learning TypeScript, Next.js, and Svelte.
+- 💬 Ask me about full-stack development, SaaS products, and automating workflows.
+- 🌐 Check out my [portfolio website](https://roshanshetty.netlify.app/) and my [photography website](https://roshanshetty.mypixieset.com/).
+- 🎨 I also share my art on [Instagram](https://www.instagram.com/roshandraws) and [photography](https://www.instagram.com/_shettyroshan/).
 
 ## 🌟 Personal Portfolio 
 
@@ -66,6 +67,7 @@ I'm an avid anime enthusiast, always excited to dive into new series and discuss
 
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoshanPShetty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPShetty&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RoshanPShetty&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 
