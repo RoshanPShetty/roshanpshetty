@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 ## 🌟 Personal Portfolio 
 
-Check out some highlights from my [portfolio](https://roshanpshetty.netlify.app/):
+Check out some highlights from my [portfolio](https://roshanpshetty.vercel.app/):
 
-[![Portfolio Preview](src/lib/assets/portfolio.jpeg)](https://roshanpshetty.netlify.app/)
+[![Portfolio Preview](src/lib/assets/portfolio.jpeg)](https://roshanpshetty.vercel.app/)
 
 
 ## 🛠️ Skills & Technologies
