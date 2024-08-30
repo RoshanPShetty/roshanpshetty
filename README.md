@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Netflix AutoSkip](https://netflix-autoskip.vercel.app/), a Chrome extension that enhances your Netflix experience.
+- 🔭 I’m currently working on [Netflix AutoSkip](https://netflix-autoskip.vercel.app/) & [Spotify Shuffler](https://spotifyshuffler.vercel.app/), a Chrome extension that enhances your Netflix experience.
 - 🌱 I’m currently learning TypeScript, Next.js, and Svelte.
 - 💬 Ask me about full-stack development, SaaS products, and automating workflows.
-- 🌐 Check out my [portfolio website](https://roshanshetty.netlify.app/) and my [photography website](https://roshanshetty.mypixieset.com/).
+- 🌐 Check out my [portfolio website](https://roshanpshetty.vercel.app/) and my [photography website](https://roshanshetty.mypixieset.com/).
 - 🎨 I also share my art on [Instagram](https://www.instagram.com/roshandraws) and [photography](https://www.instagram.com/_shettyroshan/).
 
 ## 🌟 Personal Portfolio 
