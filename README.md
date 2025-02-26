@@ -4,7 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Engineer** with a lo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Netflix AutoSkip](https://netflix-autoskip.vercel.app/) & [Spotify Shuffler](https://spotifyshuffler.vercel.app/), chrome extensions that enhance your Netflix and Spotify experience.
+- 🔭 I am working on my passion project [AniSync](https://getanisync.vercel.app/), an anime tracker app (now available on the AppStore).
+- 🔭 I recently worked on [Netflix AutoSkip](https://netflix-autoskip.vercel.app/) & [Spotify Shuffler](https://spotifyshuffler.vercel.app/), chrome extensions that enhance your Netflix and Spotify experience.
 - 🌱 I’m currently learning TypeScript, Next.js, and Svelte.
 - 💬 Ask me about full-stack development, SaaS products, and automating workflows.
 - 🌐 Check out my [portfolio website](https://roshanpshetty.vercel.app/) and my [photography website](https://roshanshetty.mypixieset.com/).
