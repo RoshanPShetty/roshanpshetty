@@ -17,17 +17,21 @@
 **Full-stack** engineer skilled in building mobile apps with React Native and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography and anime.
 
 ---
-
 ## 🚀 Featured Projects
+
+### 🌐 Web Apps  
+| App | Description | Tech Stack | Links |
+|-----|-------------|------------|-------|
+| 🏫 **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
 
 ### 📱 Mobile Apps
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
-| 🎬 **AniSync** | Anime tracker app with smooth UI built on **React Native (Expo)** using the AniList API. | <img src="https://skillicons.dev/icons?i=react" height="30" /> | [App Store](https://getanisync.vercel.app/) |
+| 🎬 **AniSync** | Anime tracker app with smooth UI built on **React Native (Expo)** using the AniList API. | <img src="https://skillicons.dev/icons?i=react,tailwind" height="30" /> | [App Store](https://getanisync.vercel.app/) |
 | 🎥 **AniQueue** | Next-gen anime & manga tracker using **SwiftUI**, **Firebase**, and **Jikan API** for rich data. | <img src="https://skillicons.dev/icons?i=swift,firebase" height="30" /> | [App Store](https://apps.apple.com/us/app/aniqueue-track-anime-manga/id6751150040) |
 | 📄 **DocuSync** | Document management app crafted with **SwiftUI** and **SwiftData** for seamless offline-first syncing. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | 🚧 Coming Soon |
 
-### 🌐 Browser Extensions
+### 🧩 Browser Extensions
 | Extension | Description | Users | Links |
 |-----------|-------------|-------|-------|
 | ⏭️ **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Loved by 1000+ users worldwide. | **1000+ users** 🎉 | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
@@ -44,7 +48,7 @@
 
 ### 📚 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind" />
 </p>
 
 ### ☁️ Tools & Platforms  
