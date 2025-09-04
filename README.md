@@ -81,9 +81,9 @@
 
 ---
 
-## [🎨 Photography](https://roshanshetty.mypixieset.com/)
+## [🎨 Photography](https://roshanpshetty.mypixieset.com/)
 Capturing moments and emotions through my lens 🎞️.  
-[![Photography Preview](src/lib/assets/photography.jpeg)](https://roshanshetty.mypixieset.com/)  
+[![Photography Preview](src/lib/assets/photography.jpeg)](https://roshanpshetty.mypixieset.com/)  
 
 ---
 
