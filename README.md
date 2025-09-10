@@ -10,14 +10,15 @@
 
 ---
 ## About Me  
-Full-stack engineer skilled in building mobile apps with React Native and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography and anime.
+Full-stack engineer skilled in building web and mobile apps with React and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography, hiking, and anime.
 
 ---
 ## Featured Projects
 ### Web Apps  
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
-| **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase,vercel" height="30" /> | [Website](https://ratemydc.com) |
+| **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
+| Erase It | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://erase-it.vercel.app) |
 | AI Image Upscaler | An AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
 
 ### Mobile Apps
@@ -28,31 +29,31 @@ Full-stack engineer skilled in building mobile apps with React Native and SwiftU
 | **DocuSync** | Document management app crafted with SwiftUI and SwiftData for seamless offline-first syncing. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | Coming Soon |
 
 ### Browser Extensions
-| Extension | Description | Users | Links |
+| Extension | Description | Tech Stack | Links |
 |-----------|-------------|-------|-------|
-| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Loved by 1000+ users worldwide. | 1k+ users | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
-| **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy chrome extension. | Global usage | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
+| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Over 1k users. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
+| **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy chrome extension. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
 
 ### UI
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
-| **Devil Fruit Encyclopedia** | A comprehensive encyclopedia for the Devil Fruits from the anime One Piece, featuring detailed information, user abilities, and a dark, modern design. | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | Website |
+| **Devil Fruit Encyclopedia** | Designed ure HTML, CSS  | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | [Website](https://devilfruit.vercel.app)  |
 
 ---
 ## Skills & Tech Stack  
 ### Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,swift,python,r,java" />
+  <img src="https://skillicons.dev/icons?i=typescript,python,javascript,java,swift,cpp" />
 </p>
 
-### Frameworks & Libraries  
+### Frameworks, Libraries & Markup
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,svelte,tailwind" />
 </p>
 
 ### Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,mongodb,postgresql,ansible" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgresql,git,github,ansible,docker" />
 </p>
 
 ---
@@ -66,7 +67,7 @@ Full-stack engineer skilled in building mobile apps with React Native and SwiftU
 </p>
 
 ---
-## [Personal Portfolio](https://roshanpshetty.vercel.app/)  
+## [Portfolio](https://roshanpshetty.vercel.app/)  
 <p align="center">
   <a href="https://roshanpshetty.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="src/lib/assets/landing.png" alt="Portfolio Preview" style="border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
