@@ -17,7 +17,8 @@ Full-stack engineer skilled in building mobile apps with React Native and SwiftU
 ### Web Apps  
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
-| **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
+| **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase,vercel" height="30" /> | [Website](https://ratemydc.com) |
+| AI Image Upscaler | An AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
 
 ### Mobile Apps
 | App | Description | Tech Stack | Links |
@@ -29,8 +30,13 @@ Full-stack engineer skilled in building mobile apps with React Native and SwiftU
 ### Browser Extensions
 | Extension | Description | Users | Links |
 |-----------|-------------|-------|-------|
-| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Loved by 1000+ users worldwide. | 1000+ users | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
+| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Loved by 1000+ users worldwide. | 1k+ users | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
 | **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy chrome extension. | Global usage | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
+
+### UI
+| App | Description | Tech Stack | Links |
+|-----|-------------|------------|-------|
+| **Devil Fruit Encyclopedia** | A comprehensive encyclopedia for the Devil Fruits from the anime One Piece, featuring detailed information, user abilities, and a dark, modern design. | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | Website |
 
 ---
 ## Skills & Tech Stack  
