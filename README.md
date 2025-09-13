@@ -18,7 +18,7 @@ Full-stack engineer skilled in building web and mobile apps with React and Swift
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
 | **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
-| Erase It | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://erase-it.vercel.app) |
+| Erase It | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://eraseit.vercel.app/) |
 | AI Image Upscaler | An AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
 
 ### Mobile Apps
