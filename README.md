@@ -19,6 +19,8 @@ Full-stack engineer skilled in building web and mobile apps with React and Swift
 |-----|-------------|------------|-------|
 | **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
 | Erase It | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://eraseit.vercel.app/) |
+| **Portfolio** | Revamped portoflio website with blogs and photography  | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase" height="30" /> | [Website](https://roshanpraveenshetty.vercel.app/)  |
+| **Devil Fruit Encyclopedia** | One Piece devil fruit encyclopedia | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | [Website](https://devilfruit.vercel.app)  |
 | AI Image Upscaler | An AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
 
 ### Mobile Apps
@@ -33,11 +35,6 @@ Full-stack engineer skilled in building web and mobile apps with React and Swift
 |-----------|-------------|-------|-------|
 | **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Over 1k users. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
 | **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy chrome extension. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
-
-### UI
-| App | Description | Tech Stack | Links |
-|-----|-------------|------------|-------|
-| **Devil Fruit Encyclopedia** | Designed ure HTML, CSS  | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | [Website](https://devilfruit.vercel.app)  |
 
 ---
 ## Skills & Tech Stack  
