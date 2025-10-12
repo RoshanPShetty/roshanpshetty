@@ -76,7 +76,6 @@ Full-stack engineer skilled in building web and mobile apps with React and Swift
 
 ---
 ## [Photography](https://roshanpshetty.mypixieset.com/)
-Capturing moments and emotions through my lens.  
 [![Photography Preview](src/lib/assets/photography.jpeg)](https://roshanpshetty.mypixieset.com/)  
 
 
