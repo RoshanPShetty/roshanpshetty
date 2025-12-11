@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/roshanpshetty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
-  <a href="https://roshanpshetty.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Portfolio"/></a>
+  <a href="https://roshanpraveenshetty.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Portfolio"/></a>
   <a href="mailto:roshanshetty2000@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email"/></a>
 </p>
 
