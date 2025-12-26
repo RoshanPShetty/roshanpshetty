@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Roshan Praveen Shetty</h1>
 <p align="center">
-  Full-Stack Engineer | iOS Developer | Cloud Enthusiast  
+  Computer Systems Engineer | Full-Stack Enthusiast | iOS Developer | Cloud Enthusiast  
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/roshanpshetty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
@@ -10,7 +10,7 @@
 
 ---
 ## About Me  
-Full-stack engineer skilled in building web and mobile apps with React and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography, hiking, and anime.
+Computer Systems Engineer skilled in building web and mobile apps with React and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography, hiking, and anime.
 
 ---
 ## Featured Projects
@@ -29,6 +29,11 @@ Full-stack engineer skilled in building web and mobile apps with React and Swift
 | **AniSync** | Anime tracker app with smooth UI built on React Native (Expo) using the AniList API. | <img src="https://skillicons.dev/icons?i=react,tailwind" height="30" /> | [App Store](https://getanisync.vercel.app/) |
 | **AniQueue** | Next-gen anime & manga tracker using SwiftUI, Firebase, and Jikan API for rich data. | <img src="https://skillicons.dev/icons?i=swift,firebase" height="30" /> | [App Store](https://apps.apple.com/us/app/aniqueue-track-anime-manga/id6751150040) |
 | **DocuSync** | Document management app crafted with SwiftUI and SwiftData for seamless offline-first syncing. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | Coming Soon |
+
+### Mac Apps
+| App | Description | Tech Stack | Links |
+| --- | --- | --- | --- |
+| **BatteryPeek** | SwiftUI menubar app for MacBooks showing cycle count, max vs design capacity, and charging wattage. Planned features include logging trends and fast‑charging warnings. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | [Website](https://batterypeek.vercel.app) |
 
 ### Browser Extensions
 | Extension | Description | Tech Stack | Links |
