@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Roshan Praveen Shetty</h1>
+
 <p align="center">
   Computer Systems Engineer | Full-Stack Enthusiast | iOS Developer | Cloud Enthusiast  
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/roshanpshetty" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
   <a href="https://roshanpraveenshetty.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="35" alt="Portfolio"/></a>
@@ -9,37 +11,52 @@
 </p>
 
 ---
+
 ## About Me  
+
 Computer Systems Engineer skilled in building web and mobile apps with React and SwiftUI, and cloud backends with Firebase and Supabase. I focus on creating clean, user-friendly digital experiences. Outside coding, I enjoy photography, hiking, and anime.
 
 ---
+
 ## Featured Projects
+
+### Minecraft Mods
+
+| Mod | Description | Game / Loader | Tech Stack | Links |
+| --- | ----------- | ------------- | ---------- | ----- |
+| **Waypoint Book** | Client-side waypoint manager for saving and revisiting your favorite locations with clean commands and automatic persistence. | Minecraft 1.21.11 · Fabric | Java · Fabric API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waypoint-book) |
+
+
 ### Web Apps  
+
 | App | Description | Tech Stack | Links |
 |-----|-------------|------------|-------|
 | **RateMyDC** | Platform for sharing reviews & ratings of degree colleges, helping students make informed academic decisions. | <img src="https://skillicons.dev/icons?i=nextjs,tailwindcss,typescript,firebase" height="30" /> | [Website](https://ratemydc.com) |
-| Erase It | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://eraseit.vercel.app/) |
-| **Portfolio** | Revamped portoflio website with blogs and photography  | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase" height="30" /> | [Website](https://roshanpraveenshetty.vercel.app/)  |
-| **Devil Fruit Encyclopedia** | One Piece devil fruit encyclopedia | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | [Website](https://devilfruit.vercel.app)  |
-| AI Image Upscaler | An AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
+| **Erase It** | A web application that allows users to remove backgrounds from images. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" /> | [Website](https://eraseit.vercel.app/) |
+| **Portfolio** | Revamped portfolio website with blogs and photography. | <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,firebase" height="30" /> | [Website](https://roshanpraveenshetty.vercel.app/) |
+| **Devil Fruit Encyclopedia** | One Piece devil fruit encyclopedia. | <img src="https://skillicons.dev/icons?i=html,css" height="30" /> | [Website](https://devilfruit.vercel.app) |
+| **AI Image Upscaler** | AI-powered web app for upscaling images to higher resolutions, making them sharper and more detailed. | <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="30" /> | Coming Soon |
 
 ### Mobile Apps
+
 | App | Description | Tech Stack | Links |
-|-----|-------------|------------|-------|
+|-----|-------------|-----------|-------|
 | **AniSync** | Anime tracker app with smooth UI built on React Native (Expo) using the AniList API. | <img src="https://skillicons.dev/icons?i=react,tailwind" height="30" /> | [App Store](https://getanisync.vercel.app/) |
 | **AniQueue** | Next-gen anime & manga tracker using SwiftUI, Firebase, and Jikan API for rich data. | <img src="https://skillicons.dev/icons?i=swift,firebase" height="30" /> | [App Store](https://apps.apple.com/us/app/aniqueue-track-anime-manga/id6751150040) |
 | **DocuSync** | Document management app crafted with SwiftUI and SwiftData for seamless offline-first syncing. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | Coming Soon |
 
 ### Mac Apps
+
 | App | Description | Tech Stack | Links |
-| --- | --- | --- | --- |
+| --- | ----------- | ----------- | ----- |
 | **BatteryPeek** | SwiftUI menubar app for MacBooks showing cycle count, max vs design capacity, and charging wattage. Planned features include logging trends and fast‑charging warnings. | <img src="https://skillicons.dev/icons?i=swift" height="30" /> | [Website](https://batterypeek.vercel.app) |
 
 ### Browser Extensions
+
 | Extension | Description | Tech Stack | Links |
-|-----------|-------------|-------|-------|
-| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Over 1k users. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
-| **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy chrome extension. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" />  | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
+|----------|-------------|-----------|-------|
+| **Netflix AutoSkip** | Automatically skips intros & recaps on Netflix. Over 1k users. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" /> | [Chrome Web Store](https://chromewebstore.google.com/detail/netflix-autoskip/ccneeceepbhmgaonnhcbhbmhfomnpnfh?authuser=0&hl=en) |
+| **Spotify Playlist Shuffler** | Shuffle your Spotify playlists perfectly using this handy Chrome extension. | <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind" height="30" /> | [Chrome Web Store](https://chromewebstore.google.com/detail/playlist-shuffler-perfect/ijblgikblehedakbkdpbjcjabomboaep?authuser=0&hl=en) |
 
 ---
 ## Skills & Tech Stack  
